@@ -1,0 +1,17 @@
+<template>
+    <div>
+     妮妮
+      <Nav />
+    </div>
+</template>
+
+<script>
+    export default {
+        name: "Money",
+        components:{ Nav }
+    }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
